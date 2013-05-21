@@ -24,3 +24,5 @@
  */
 $string['sectionname'] = 'section';
 $string['pluginname'] = 'Social format with header';
+$string['hidefromothers'] = 'Hide topic';
+$string['showfromothers'] = 'Show topic';
